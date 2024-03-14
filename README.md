@@ -50,7 +50,7 @@
 5) Connect hosts to the internet
   > Use the browser to visit wwww.osi.local
 <p align="center">
-  <img style="width:100%" src="./assets/overallview" />
+  <img style="width100%" src="./assets/overallview" />
 </p>
   > It shows unusable host, that's because our network miss network devices to get access to internet.
  <p align="center">
