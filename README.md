@@ -1,8 +1,6 @@
 
 # Build a simple network
 
-A brief description of what this project does and who it's for
-
 
 **Addressing table :**
 
@@ -25,7 +23,16 @@ A brief description of what this project does and who it's for
 
 ## Write-up
 
-1) To know IOS version in switch CLI 
+1) Look at the IOS version and check if it match 15.0(2)  image lanbasek9
 ```bashhow version 
-show version
+ show version
 ```
+
+2) Connect PCs (End devices) to the switch (network devices) with Copper Straight-Trough.
+
+3) Assign IP for each computer as mentioned 
+- Open PC tab.
+- Go to IP configuration.
+- E.g. for Robert, add 192.168.1.10 for his IPv4 Address.
+- Subnet mask related to Robert IP will appear. 
+- Repeat for Camille, Renaud and close tabs.
