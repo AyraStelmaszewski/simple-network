@@ -40,7 +40,7 @@
 4) Ping PCs to proove the interconnectivity between them 
 
 <p align="center">
-  <img style="width:40%" src="./assets/Kamkar.png" />
+  <img style="width:40%" src="./assets/asset.png" />
 </p>
 
 
