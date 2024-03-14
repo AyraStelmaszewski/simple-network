@@ -30,25 +30,37 @@
 
 2) Connect PCs (End devices) to the switch (network devices) with Copper Straight-Trough.
 
-3) Assign IP for each computer as mentioned 
-- Open PC tab.
-- Go to IP configuration.
-- E.g. for Robert, add 192.168.1.10 for his IPv4 Address.
-- Subnet mask related to Robert IP will appear. 
-- Repeat for Camille, Renaud and close tabs.
+3) Assign IP for each computer as mentioned.
+- Open PC tab
+- Go to IP configuration
+- E.g. for Robert, add 192.168.1.10 for his IPv4 Address
+- Subnet mask related to Robert IP will appear
+- Repeat for Camille, Renaud and close tabs
 <p align="center">
   <img style="width:100%" src="./assets/ipconfig.png" />
 </p>
 
-4) Ping PCs to proove the interconnectivity between them 
-
+4) Configure interconnectivity between hosts
+ 	> Ping PCs to proove the interconnectivity between them.
+  > If it's your first ping, it can take fews minutes to respond.
 <p align="center">
   <img style="width100%" src="./assets/asset" />
 </p>
 
+5) Connect hosts to the internet
+  > Use the browser to visit wwww.osi.local
 <p align="center">
   <img style="width:100%" src="./assets/overallview" />
 </p>
+  > It shows unusable host, that's because our network miss network devices to get access to internet.
+ <p align="center">
+  <img style="width:100%" src="./assets/overallview" />
+ </p>
+  > We create a router who'll be linked to our swtich.
+<p align="center">
+  <img style="width:100%" src="./assets/overallview" />
+ </p>
+
 
 
 
