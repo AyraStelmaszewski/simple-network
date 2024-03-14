@@ -1,6 +1,6 @@
 
 # Build a simple network
-
+:
 
 **Addressing table :**
 
@@ -36,3 +36,12 @@
 - E.g. for Robert, add 192.168.1.10 for his IPv4 Address.
 - Subnet mask related to Robert IP will appear. 
 - Repeat for Camille, Renaud and close tabs.
+
+4) Ping PCs to proove the interconnectivity between them 
+
+<p align="center">
+  <img style="width:40%" src="./assets/Kamkar.png" />
+</p>
+
+
+
