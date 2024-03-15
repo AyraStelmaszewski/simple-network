@@ -48,16 +48,17 @@
 </p>
 
 5) Connect hosts to the internet
-  > Use the browser to visit wwww.osi.local
+- Use the browser to visit wwww.osi.local
 <p align="center">
   <img style="width100%" src="./assets/overallview" />
 </p>
-  > It shows unusable host, that's because our network miss network devices to get access to internet.
+- It shows unusable host, that's because our network miss network devices to get access to internet.
  <p align="center">
   <img style="width:100%" src="./assets/overallview" />
  </p>
-  > We create a router who'll be linked to our swtich.
-<p align="center">
+ - We create a router who'll be linked to our swtich.
+ > In Cisco Packet Tracer, you can connect various types of routers to a Cisco Catalyst 2960-24TT switch. The compatibility depends on the interfaces available on both devices and the specific networking requirements.To connect a router to a Cisco Catalyst 2960-24TT switch in Packet Tracer, you'll typically use a router that has at least one Ethernet interface compatible with the switch's Ethernet ports.(E.g. 1841, 1921, 2901)
+ <p align="center">
   <img style="width:100%" src="./assets/overallview" />
  </p>
 
