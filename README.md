@@ -41,8 +41,7 @@
 </p>
 
 4) Configure interconnectivity between hosts
- 	> Ping PCs to proove the interconnectivity between them.
-  > If it's your first ping, it can take fews minutes to respond.
+ 	> Ping PCs to proove the interconnectivity between them,  if it's your first ping, it can take fews minutes to respond.
 <p align="center">
   <img style="width100%" src="./assets/asset" />
 </p>
@@ -55,7 +54,7 @@
 6) Table routing
 - Double click on your router and create a static routing table
 <p align="center">
-  <img style="width100%" src="./assets/routingtable.png" />
+  <img style="width100%" src="./assets/tablerouting.png" />
 </p>
 7) Work done, Robert is able to ping Faker !
 <p align="center">
