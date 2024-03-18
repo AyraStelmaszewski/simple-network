@@ -48,20 +48,19 @@
 </p>
 
 5) Connect hosts to the internet
-- Use the browser to visit wwww.osi.local
-<p align="center">
-  <img style="width100%" src="./assets/overallview" />
-</p>
-- It shows unusable host, that's because our network miss network devices to get access to internet.
- <p align="center">
-  <img style="width:100%" src="./assets/overallview" />
- </p>
- - We create a router who'll be linked to our swtich.
- > In Cisco Packet Tracer, you can connect various types of routers to a Cisco Catalyst 2960-24TT switch. The compatibility depends on the interfaces available on both devices and the specific networking requirements.To connect a router to a Cisco Catalyst 2960-24TT switch in Packet Tracer, you'll typically use a router that has at least one Ethernet interface compatible with the switch's Ethernet ports.(E.g. 1841, 1921, 2901)
- <p align="center">
-  <img style="width:100%" src="./assets/overallview" />
- </p>
+- To proove a connexion to the internet we'll ping a PC on another network.
+- We'll add a router, switch, pc to make this new network.
+- You'll have to do a table routing to make interconnexion between two router not on the same network.
 
+6) Table routing
+- Double click on your router and create a static routing table
+<p align="center">
+  <img style="width100%" src="./assets/routingtable.png" />
+</p>
+7) Work done, Robert is able to ping Faker !
+<p align="center">
+  <img style="width100%" src="./assets/end.png" />
+</p>
 
 
 
